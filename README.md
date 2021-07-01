@@ -1,1 +1,0 @@
-# doctrine-extensions-bundle
